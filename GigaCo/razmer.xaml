@@ -1,0 +1,23 @@
+﻿<Page x:Class="GigaCo.razmer"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:GigaCo"
+      mc:Ignorable="d" 
+      d:DesignHeight="450" d:DesignWidth="800"
+      Title="razmer">
+
+    <Grid Background="Gray">
+        <StackPanel Margin="10,10,400,0">
+            <TextBlock TextWrapping="Wrap">
+Размеры видеокарт могут варьироваться в зависимости от модели и производителя. Обычно видеокарты имеют стандартные форм-факторы, которые позволяют их устанавливать в большинство компьютерных корпусов. Ниже приведены некоторые распространенные форм-факторы видеокарт:</TextBlock>
+            <TextBlock TextWrapping="Wrap">1. ATX: Стандартный размер для настольных компьютеров. Обычно имеет размеры около 30 см в длину и 13 см в высоту.</TextBlock>
+            <TextBlock TextWrapping="Wrap">2. Mini-ITX: Более компактный форм-фактор для мини-компьютеров и систем SFF (Small Form Factor). Может иметь размеры около 17 см в длину и 9 см в высоту.</TextBlock>
+            <TextBlock TextWrapping="Wrap">3. Dual-slot: Этот термин описывает видеокарты, которые занимают два слота расширения на задней панели компьютера из-за своей ширины или конструкции охлаждения. Такие карты обычно имеют большую толщину.</TextBlock>
+            <TextBlock TextWrapping="Wrap">4. Triple-slot: Некоторые более мощные и производительные видеокарты могут занимать три слота расширения из-за более массивных систем охлаждения.</TextBlock>
+        </StackPanel>
+        <MediaElement IsMuted="True" Source="size.mp4" Margin="401,54,7,192" />
+        <Button Content="Сортировка по размеру" Click="size" Margin="416,263,22,99" />
+    </Grid>
+</Page>

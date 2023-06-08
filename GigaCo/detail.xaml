@@ -1,0 +1,24 @@
+﻿<Page x:Class="GigaCo.detail"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:GigaCo"
+      mc:Ignorable="d" 
+      d:DesignHeight="450" d:DesignWidth="800"
+      Title="detail">
+
+    <Grid Background="Gray">
+        <StackPanel Margin="10,0,0,151">
+            <TextBlock TextWrapping="Wrap">Видеокарта собирается из нескольких основных компонентов:</TextBlock>
+            <TextBlock TextWrapping="Wrap">1. Графический процессор (GPU): Основной "мозг" видеокарты, который выполняет вычисления и обрабатывает графику. Он состоит из тысяч ядер (CUDA ядра для NVIDIA или Stream процессоры для AMD), которые работают параллельно для выполнения сложных графических задач.</TextBlock>
+            <TextBlock TextWrapping="Wrap">2. Память видеокарты: Видеокарты обычно оснащаются собственной видеопамятью, известной как VRAM (Video Random Access Memory). VRAM используется для хранения текстур, шейдеров и промежуточных результатов вычислений.</TextBlock>
+            <TextBlock TextWrapping="Wrap">3. Разъемы для подключения монитора: Видеокарта имеет разъемы для подключения монитора или других устройств вывода, таких как HDMI, DisplayPort или DVI.</TextBlock>
+            <TextBlock TextWrapping="Wrap">4. Система охлаждения: Из-за интенсивной работы видеокарты, она может нагреваться. Поэтому видеокарты обычно оснащаются системой охлаждения, которая может включать вентиляторы, радиаторы и тепловые трубки, чтобы отводить излишнее тепло и поддерживать оптимальную температуру работы.</TextBlock>
+            <TextBlock TextWrapping="Wrap">5. Электронная плата: Это основная печатная плата, на которой расположены все компоненты видеокарты, включая GPU, VRAM и другие микросхемы. Электронная плата также содержит разъемы для подключения видеокарты к материнской плате компьютера.</TextBlock>
+        </StackPanel>
+        <MediaElement IsMuted="True" Source="instument.mp4" Margin="298,225,0,0" />
+        <Button Content="Dataset Видеокарт" Click="detali_roboflow" Margin="58,262,497,90" />
+        <Button Content="Поиск деталей" Click="poisk_detali" Margin="58,338,497,14" />
+    </Grid>
+</Page>

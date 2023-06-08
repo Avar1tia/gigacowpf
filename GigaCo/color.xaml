@@ -1,0 +1,22 @@
+﻿<Page x:Class="GigaCo.color"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:GigaCo"
+      mc:Ignorable="d" 
+      d:DesignHeight="450" d:DesignWidth="800"
+      Title="color">
+
+    <Grid Background="Gray">
+        <StackPanel Margin="0,49,507,-22">
+            <TextBlock TextAlignment="Center" TextWrapping="Wrap" Width="194"><Run Text="На нашем производстве, при создании видеокарт использовалось несколько цветов видеокарт: красный, зеленый, синий, коричневый"/></TextBlock>
+            <TextBlock TextWrapping="Wrap" TextAlignment="Center" Width="189">
+                Недостатком поиска цвета является выставление диапазона в коде. Ошибка при распознавании красного цвета, была связана с неправильно установленным диапазоном и освещением над конвейером.
+Самым продуктивным методом является поиск по шаблону. При обучении датасета с выделением объекта, который требуется найти. Самое сложное в этот методе - ошибки при работе с кодом
+            </TextBlock>
+        </StackPanel>
+        <MediaElement Source="color.mp4" Margin="298,36,33,36" />
+        <Button Content="Color" Click="colors" Margin="283,322,10,40" />
+    </Grid>
+</Page>

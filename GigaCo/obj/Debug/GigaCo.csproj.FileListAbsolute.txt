@@ -1,0 +1,61 @@
+C:\Users\Администратор\source\repos\GigaCo\GigaCo\bin\Debug\GigaCo.exe.config
+C:\Users\Администратор\source\repos\GigaCo\GigaCo\bin\Debug\GigaCo.exe
+C:\Users\Администратор\source\repos\GigaCo\GigaCo\bin\Debug\GigaCo.pdb
+C:\Users\Администратор\source\repos\GigaCo\GigaCo\obj\Debug\Page1.g.cs
+C:\Users\Администратор\source\repos\GigaCo\GigaCo\obj\Debug\Page2.g.cs
+C:\Users\Администратор\source\repos\GigaCo\GigaCo\obj\Debug\MainWindow.g.cs
+C:\Users\Администратор\source\repos\GigaCo\GigaCo\obj\Debug\Page3.g.cs
+C:\Users\Администратор\source\repos\GigaCo\GigaCo\obj\Debug\App.g.cs
+C:\Users\Администратор\source\repos\GigaCo\GigaCo\obj\Debug\GigaCo_MarkupCompile.cache
+C:\Users\Администратор\source\repos\GigaCo\GigaCo\obj\Debug\GigaCo_MarkupCompile.lref
+C:\Users\Администратор\source\repos\GigaCo\GigaCo\obj\Debug\Page1.baml
+C:\Users\Администратор\source\repos\GigaCo\GigaCo\obj\Debug\Page2.baml
+C:\Users\Администратор\source\repos\GigaCo\GigaCo\obj\Debug\MainWindow.baml
+C:\Users\Администратор\source\repos\GigaCo\GigaCo\obj\Debug\Page3.baml
+C:\Users\Администратор\source\repos\GigaCo\GigaCo\obj\Debug\GigaCo.g.resources
+C:\Users\Администратор\source\repos\GigaCo\GigaCo\obj\Debug\GigaCo.Properties.Resources.resources
+C:\Users\Администратор\source\repos\GigaCo\GigaCo\obj\Debug\GigaCo.csproj.GenerateResource.cache
+C:\Users\Администратор\source\repos\GigaCo\GigaCo\obj\Debug\GigaCo.csproj.CoreCompileInputs.cache
+C:\Users\Администратор\source\repos\GigaCo\GigaCo\obj\Debug\GigaCo.exe
+C:\Users\Администратор\source\repos\GigaCo\GigaCo\obj\Debug\GigaCo.pdb
+C:\Users\Администратор\source\repos\GigaCo\GigaCo\obj\Debug\Page4.g.cs
+C:\Users\Администратор\source\repos\GigaCo\GigaCo\obj\Debug\Page4.baml
+C:\Users\Администратор\source\repos\GigaCo\GigaCo\obj\Debug\Page5.g.cs
+C:\Users\Администратор\source\repos\GigaCo\GigaCo\obj\Debug\Page6.g.cs
+C:\Users\Администратор\source\repos\GigaCo\GigaCo\obj\Debug\Page5.baml
+C:\Users\Администратор\source\repos\GigaCo\GigaCo\obj\Debug\Page6.baml
+C:\Users\dimai\OneDrive\Рабочий стол\gigaga\GigaCo\bin\Debug\GigaCo.exe.config
+C:\Users\dimai\OneDrive\Рабочий стол\gigaga\GigaCo\bin\Debug\GigaCo.exe
+C:\Users\dimai\OneDrive\Рабочий стол\gigaga\GigaCo\bin\Debug\GigaCo.pdb
+C:\Users\dimai\OneDrive\Рабочий стол\gigaga\GigaCo\obj\Debug\GigaCo.csproj.AssemblyReference.cache
+C:\Users\dimai\OneDrive\Рабочий стол\gigaga\GigaCo\obj\Debug\GigaCo.csproj.SuggestedBindingRedirects.cache
+C:\Users\dimai\OneDrive\Рабочий стол\gigaga\GigaCo\obj\Debug\Page1.g.cs
+C:\Users\dimai\OneDrive\Рабочий стол\gigaga\GigaCo\obj\Debug\Page2.g.cs
+C:\Users\dimai\OneDrive\Рабочий стол\gigaga\GigaCo\obj\Debug\MainWindow.g.cs
+C:\Users\dimai\OneDrive\Рабочий стол\gigaga\GigaCo\obj\Debug\Page3.g.cs
+C:\Users\dimai\OneDrive\Рабочий стол\gigaga\GigaCo\obj\Debug\App.g.cs
+C:\Users\dimai\OneDrive\Рабочий стол\gigaga\GigaCo\obj\Debug\GigaCo_MarkupCompile.cache
+C:\Users\dimai\OneDrive\Рабочий стол\gigaga\GigaCo\obj\Debug\GigaCo_MarkupCompile.lref
+C:\Users\dimai\OneDrive\Рабочий стол\gigaga\GigaCo\obj\Debug\Page1.baml
+C:\Users\dimai\OneDrive\Рабочий стол\gigaga\GigaCo\obj\Debug\Page2.baml
+C:\Users\dimai\OneDrive\Рабочий стол\gigaga\GigaCo\obj\Debug\MainWindow.baml
+C:\Users\dimai\OneDrive\Рабочий стол\gigaga\GigaCo\obj\Debug\Page3.baml
+C:\Users\dimai\OneDrive\Рабочий стол\gigaga\GigaCo\obj\Debug\GigaCo.g.resources
+C:\Users\dimai\OneDrive\Рабочий стол\gigaga\GigaCo\obj\Debug\GigaCo.Properties.Resources.resources
+C:\Users\dimai\OneDrive\Рабочий стол\gigaga\GigaCo\obj\Debug\GigaCo.csproj.GenerateResource.cache
+C:\Users\dimai\OneDrive\Рабочий стол\gigaga\GigaCo\obj\Debug\GigaCo.csproj.CoreCompileInputs.cache
+C:\Users\dimai\OneDrive\Рабочий стол\gigaga\GigaCo\obj\Debug\GigaCo.exe
+C:\Users\dimai\OneDrive\Рабочий стол\gigaga\GigaCo\obj\Debug\GigaCo.pdb
+C:\Users\dimai\OneDrive\Рабочий стол\gigaga\GigaCo\obj\Debug\danger.g.cs
+C:\Users\dimai\OneDrive\Рабочий стол\gigaga\GigaCo\obj\Debug\danger.baml
+C:\Users\dimai\OneDrive\Рабочий стол\gigaga\GigaCo\obj\Debug\detail.g.cs
+C:\Users\dimai\OneDrive\Рабочий стол\gigaga\GigaCo\obj\Debug\detail.baml
+C:\Users\dimai\OneDrive\Рабочий стол\gigaga\GigaCo\obj\Debug\razmer.g.cs
+C:\Users\dimai\OneDrive\Рабочий стол\gigaga\GigaCo\obj\Debug\razmer.baml
+C:\Users\dimai\OneDrive\Рабочий стол\gigaga\GigaCo\obj\Debug\color.g.cs
+C:\Users\dimai\OneDrive\Рабочий стол\gigaga\GigaCo\obj\Debug\color.baml
+C:\Users\dimai\OneDrive\Рабочий стол\gigaga\GigaCo\obj\Debug\kontrol_kachestva.g.cs
+C:\Users\dimai\OneDrive\Рабочий стол\gigaga\GigaCo\obj\Debug\kontrol_kachestva.baml
+C:\Users\dimai\OneDrive\Рабочий стол\gigaga\GigaCo\obj\Debug\qrcode.g.cs
+C:\Users\dimai\OneDrive\Рабочий стол\gigaga\GigaCo\obj\Debug\qrcode.baml
+C:\Users\dimai\OneDrive\Рабочий стол\gigaga\GigaCo\obj\Debug\GigaCo_Content.g.cs

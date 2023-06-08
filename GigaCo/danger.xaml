@@ -1,0 +1,22 @@
+﻿<Page x:Class="GigaCo.danger"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:GigaCo"
+      mc:Ignorable="d" 
+      d:DesignHeight="450" d:DesignWidth="800"
+      Title="danger">
+
+    <Grid Background="Gray">
+        <StackPanel Margin="10,0,0,0">
+            <TextBlock TextWrapping="Wrap">Как сделать работу человека рядом с роботом безопасной? Уже несколько десятилетий промышленные роботы заменяют людей, выполняя опасные, грязные и повторяющиеся операции. Громоздкие машины применяют, например, для укладки продукции на поддоны, покраски, сварки, загрузки станков. Автоматизация не только облегчает работу персонала, но и увеличивает доходы на предприятии.</TextBlock>
+            <TextBlock TextWrapping="Wrap">Помимо прибыльности производства обязательным условием успешности предприятия является безопасность его сотрудников. Любая производственная травма отягощает компанию высокими дополнительными издержками и портит репутацию. Чтобы избежать производственного травматизма промышленные роботы, как правило, отделены от людей защитными ограждениями. Это необходимое требование, прописанное в стандартах безопасности для роботов.</TextBlock>
+        </StackPanel>
+        <MediaElement IsMuted="True" Source="danger zone.mp4" Margin="277,160,1,0" />
+        <Button Content="YOLOv4" Click="Danger" Margin="27,159,546,169" />
+        <StackPanel Margin="0,225,525,61">
+            <TextBlock TextAlignment="Center" TextWrapping="Wrap"><Run Text="При сборке используется робот, скорость которого, уменьшится в два раза, если в зону войдет 1 человек, и который остановится, если в зоне будет 2 и более людей"/></TextBlock>
+        </StackPanel>
+    </Grid>
+</Page>

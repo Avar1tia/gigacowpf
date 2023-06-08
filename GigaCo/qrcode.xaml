@@ -1,0 +1,46 @@
+﻿<Page x:Class="GigaCo.qrcode"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:GigaCo"
+      mc:Ignorable="d" 
+      d:DesignHeight="450" d:DesignWidth="800"
+      Title="qrcode">
+
+    <Grid Background="Gray">
+        <FlowDocumentReader Margin="0,10,578,0">
+            <FlowDocument ColumnWidth="150" ColumnGap="10">
+                <Paragraph TextAlignment="Left" FontSize="15">
+                    Производство видео карт начинается с изготовления печатных плат на производственной линии. Затем на платы устанавливаются компоненты, такие как процессоры, ОЗУ, конденсаторы и другие детали. Каждый компонент проходит тестирование на работоспособность до установки на плату.
+
+После этого печатные платы проходят тестирование в специальных камерах, где проверяется их работоспособность и совместимость с другими компонентами. В случае выявления неисправностей отдельные платы перенаправляются на доработку.
+
+После успешного тестирования печатные платы собираются вместе и проходят финальную сборку. Затем они загружаются в специальные упаковочные коробки, которые защищают компоненты от повреждений при транспортировке.
+
+Наконец, упакованные видео карты загружаются в грузовики и транспортируются на склады, где они готовятся к отправке в магазины и на экспорт в другие страны. Каждая видеокарта имеет серийный номер, что обеспечивает ее трассируемость и позволяет отслеживать происхождение комплектующих при возможной необходимости обслуживания или замены.
+
+                </Paragraph>
+            </FlowDocument>
+        </FlowDocumentReader>
+        <StackPanel Background="White" Margin="453,0,0,-26" >
+            <StackPanel.Resources>
+                <Style x:Key="ButtonStyle" TargetType="Button">
+                    <Setter Property="Background" Value="#FF94DAFF"/>
+                    <Setter Property="Margin" Value="0,0,0,20"/>
+                    <Setter Property="HorizontalAlignment" Value="Center"/>
+                    <Setter Property="VerticalAlignment" Value="Center"/>
+                    <Setter Property="Width" Value="133"/>
+                    <Setter Property="Height" Value="35"/>
+                </Style>
+            </StackPanel.Resources>
+            <TextBox x:Name="txtBox" HorizontalAlignment="Center" Background="LightBlue" TextWrapping="Wrap" VerticalAlignment="Top" Width="300" HorizontalContentAlignment="Center" VerticalContentAlignment="Center" Height="40" Margin="0,40,0,60" FontSize="15" FontWeight="DemiBold" SpellCheck.IsEnabled="True" TextChanged="TxtBox_TextChanged"/>
+            <Border Height="252" Width="349" BorderBrush="Black" BorderThickness="1">
+                <InkCanvas x:Name="barcodeCan" Height="250" Width="347" Background="White" EditingMode="GestureOnly"  IsEnabled="False"/>
+            </Border>
+        </StackPanel>
+        <MediaElement IsMuted="True" Source="qr.mp4" Margin="143,61,285,182" />
+        <Button Content="QR CODE" Click="qr" Margin="227,248,369,105" />
+        <!--<Button Content="Видео QR" Click="videoqr" Margin="221,112,415,236" />-->
+    </Grid>
+</Page>

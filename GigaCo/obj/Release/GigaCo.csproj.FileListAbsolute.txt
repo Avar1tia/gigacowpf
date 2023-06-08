@@ -1,0 +1,119 @@
+C:\Users\dimai\OneDrive\Рабочий стол\gigaga\GigaCo\bin\Release\GigaCo.exe.config
+C:\Users\dimai\OneDrive\Рабочий стол\gigaga\GigaCo\bin\Release\GigaCo.exe
+C:\Users\dimai\OneDrive\Рабочий стол\gigaga\GigaCo\bin\Release\GigaCo.pdb
+C:\Users\dimai\OneDrive\Рабочий стол\gigaga\GigaCo\obj\Release\GigaCo.csproj.AssemblyReference.cache
+C:\Users\dimai\OneDrive\Рабочий стол\gigaga\GigaCo\obj\Release\GigaCo.csproj.SuggestedBindingRedirects.cache
+C:\Users\dimai\OneDrive\Рабочий стол\gigaga\GigaCo\obj\Release\color.g.cs
+C:\Users\dimai\OneDrive\Рабочий стол\gigaga\GigaCo\obj\Release\danger.g.cs
+C:\Users\dimai\OneDrive\Рабочий стол\gigaga\GigaCo\obj\Release\detail.g.cs
+C:\Users\dimai\OneDrive\Рабочий стол\gigaga\GigaCo\obj\Release\kontrol_kachestva.g.cs
+C:\Users\dimai\OneDrive\Рабочий стол\gigaga\GigaCo\obj\Release\Page1.g.cs
+C:\Users\dimai\OneDrive\Рабочий стол\gigaga\GigaCo\obj\Release\Page2.g.cs
+C:\Users\dimai\OneDrive\Рабочий стол\gigaga\GigaCo\obj\Release\MainWindow.g.cs
+C:\Users\dimai\OneDrive\Рабочий стол\gigaga\GigaCo\obj\Release\Page3.g.cs
+C:\Users\dimai\OneDrive\Рабочий стол\gigaga\GigaCo\obj\Release\qrcode.g.cs
+C:\Users\dimai\OneDrive\Рабочий стол\gigaga\GigaCo\obj\Release\razmer.g.cs
+C:\Users\dimai\OneDrive\Рабочий стол\gigaga\GigaCo\obj\Release\App.g.cs
+C:\Users\dimai\OneDrive\Рабочий стол\gigaga\GigaCo\obj\Release\GigaCo_Content.g.cs
+C:\Users\dimai\OneDrive\Рабочий стол\gigaga\GigaCo\obj\Release\GigaCo_MarkupCompile.cache
+C:\Users\dimai\OneDrive\Рабочий стол\gigaga\GigaCo\obj\Release\GigaCo_MarkupCompile.lref
+C:\Users\dimai\OneDrive\Рабочий стол\gigaga\GigaCo\obj\Release\color.baml
+C:\Users\dimai\OneDrive\Рабочий стол\gigaga\GigaCo\obj\Release\danger.baml
+C:\Users\dimai\OneDrive\Рабочий стол\gigaga\GigaCo\obj\Release\detail.baml
+C:\Users\dimai\OneDrive\Рабочий стол\gigaga\GigaCo\obj\Release\kontrol_kachestva.baml
+C:\Users\dimai\OneDrive\Рабочий стол\gigaga\GigaCo\obj\Release\Page1.baml
+C:\Users\dimai\OneDrive\Рабочий стол\gigaga\GigaCo\obj\Release\Page2.baml
+C:\Users\dimai\OneDrive\Рабочий стол\gigaga\GigaCo\obj\Release\MainWindow.baml
+C:\Users\dimai\OneDrive\Рабочий стол\gigaga\GigaCo\obj\Release\Page3.baml
+C:\Users\dimai\OneDrive\Рабочий стол\gigaga\GigaCo\obj\Release\qrcode.baml
+C:\Users\dimai\OneDrive\Рабочий стол\gigaga\GigaCo\obj\Release\razmer.baml
+C:\Users\dimai\OneDrive\Рабочий стол\gigaga\GigaCo\obj\Release\GigaCo.g.resources
+C:\Users\dimai\OneDrive\Рабочий стол\gigaga\GigaCo\obj\Release\GigaCo.Properties.Resources.resources
+C:\Users\dimai\OneDrive\Рабочий стол\gigaga\GigaCo\obj\Release\GigaCo.csproj.GenerateResource.cache
+C:\Users\dimai\OneDrive\Рабочий стол\gigaga\GigaCo\obj\Release\GigaCo.csproj.CoreCompileInputs.cache
+C:\Users\dimai\OneDrive\Рабочий стол\gigaga\GigaCo\obj\Release\GigaCo.exe
+C:\Users\dimai\OneDrive\Рабочий стол\gigaga\GigaCo\obj\Release\GigaCo.pdb
+C:\Users\dimai\source\repos\gigaga\GigaCo\bin\Release\GigaCo.exe.config
+C:\Users\dimai\source\repos\gigaga\GigaCo\bin\Release\GigaCo.exe
+C:\Users\dimai\source\repos\gigaga\GigaCo\bin\Release\GigaCo.pdb
+C:\Users\dimai\source\repos\gigaga\GigaCo\obj\Release\GigaCo.csproj.AssemblyReference.cache
+C:\Users\dimai\source\repos\gigaga\GigaCo\obj\Release\GigaCo.csproj.SuggestedBindingRedirects.cache
+C:\Users\dimai\source\repos\gigaga\GigaCo\obj\Release\color.g.cs
+C:\Users\dimai\source\repos\gigaga\GigaCo\obj\Release\danger.g.cs
+C:\Users\dimai\source\repos\gigaga\GigaCo\obj\Release\detail.g.cs
+C:\Users\dimai\source\repos\gigaga\GigaCo\obj\Release\kontrol_kachestva.g.cs
+C:\Users\dimai\source\repos\gigaga\GigaCo\obj\Release\Page1.g.cs
+C:\Users\dimai\source\repos\gigaga\GigaCo\obj\Release\Page2.g.cs
+C:\Users\dimai\source\repos\gigaga\GigaCo\obj\Release\MainWindow.g.cs
+C:\Users\dimai\source\repos\gigaga\GigaCo\obj\Release\Page3.g.cs
+C:\Users\dimai\source\repos\gigaga\GigaCo\obj\Release\qrcode.g.cs
+C:\Users\dimai\source\repos\gigaga\GigaCo\obj\Release\razmer.g.cs
+C:\Users\dimai\source\repos\gigaga\GigaCo\obj\Release\App.g.cs
+C:\Users\dimai\source\repos\gigaga\GigaCo\obj\Release\GigaCo_Content.g.cs
+C:\Users\dimai\source\repos\gigaga\GigaCo\obj\Release\GigaCo_MarkupCompile.cache
+C:\Users\dimai\source\repos\gigaga\GigaCo\obj\Release\GigaCo_MarkupCompile.lref
+C:\Users\dimai\source\repos\gigaga\GigaCo\obj\Release\color.baml
+C:\Users\dimai\source\repos\gigaga\GigaCo\obj\Release\danger.baml
+C:\Users\dimai\source\repos\gigaga\GigaCo\obj\Release\detail.baml
+C:\Users\dimai\source\repos\gigaga\GigaCo\obj\Release\kontrol_kachestva.baml
+C:\Users\dimai\source\repos\gigaga\GigaCo\obj\Release\Page1.baml
+C:\Users\dimai\source\repos\gigaga\GigaCo\obj\Release\Page2.baml
+C:\Users\dimai\source\repos\gigaga\GigaCo\obj\Release\MainWindow.baml
+C:\Users\dimai\source\repos\gigaga\GigaCo\obj\Release\Page3.baml
+C:\Users\dimai\source\repos\gigaga\GigaCo\obj\Release\qrcode.baml
+C:\Users\dimai\source\repos\gigaga\GigaCo\obj\Release\razmer.baml
+C:\Users\dimai\source\repos\gigaga\GigaCo\obj\Release\GigaCo.g.resources
+C:\Users\dimai\source\repos\gigaga\GigaCo\obj\Release\GigaCo.Properties.Resources.resources
+C:\Users\dimai\source\repos\gigaga\GigaCo\obj\Release\GigaCo.csproj.GenerateResource.cache
+C:\Users\dimai\source\repos\gigaga\GigaCo\obj\Release\GigaCo.csproj.CoreCompileInputs.cache
+C:\Users\dimai\source\repos\gigaga\GigaCo\obj\Release\GigaCo.exe
+C:\Users\dimai\source\repos\gigaga\GigaCo\obj\Release\GigaCo.pdb
+C:\Users\dimai\source\repos\gigaga\GigaCo\bin\Release\instument.mp4
+C:\Users\dimai\source\repos\gigaga\GigaCo\bin\Release\color.mp4
+C:\Users\dimai\source\repos\gigaga\GigaCo\bin\Release\danger zone.mp4
+C:\Users\dimai\source\repos\gigaga\GigaCo\bin\Release\deff.mp4
+C:\Users\dimai\source\repos\gigaga\GigaCo\bin\Release\siz.mp4
+C:\Users\dimai\source\repos\gigaga\GigaCo\bin\Release\size.mp4
+C:\Users\dimai\source\repos\gigaga\GigaCo\bin\Release\qr.mp4
+C:\Users\tlooi\Desktop\gigaga\GigaCo\bin\Release\color.mp4
+C:\Users\tlooi\Desktop\gigaga\GigaCo\bin\Release\danger zone.mp4
+C:\Users\tlooi\Desktop\gigaga\GigaCo\bin\Release\deff.mp4
+C:\Users\tlooi\Desktop\gigaga\GigaCo\bin\Release\instument.mp4
+C:\Users\tlooi\Desktop\gigaga\GigaCo\bin\Release\qr.mp4
+C:\Users\tlooi\Desktop\gigaga\GigaCo\bin\Release\siz.mp4
+C:\Users\tlooi\Desktop\gigaga\GigaCo\bin\Release\size.mp4
+C:\Users\tlooi\Desktop\gigaga\GigaCo\bin\Release\GigaCo.exe.config
+C:\Users\tlooi\Desktop\gigaga\GigaCo\bin\Release\GigaCo.exe
+C:\Users\tlooi\Desktop\gigaga\GigaCo\bin\Release\GigaCo.pdb
+C:\Users\tlooi\Desktop\gigaga\GigaCo\obj\Release\GigaCo.csproj.AssemblyReference.cache
+C:\Users\tlooi\Desktop\gigaga\GigaCo\obj\Release\GigaCo.csproj.SuggestedBindingRedirects.cache
+C:\Users\tlooi\Desktop\gigaga\GigaCo\obj\Release\color.g.cs
+C:\Users\tlooi\Desktop\gigaga\GigaCo\obj\Release\danger.g.cs
+C:\Users\tlooi\Desktop\gigaga\GigaCo\obj\Release\detail.g.cs
+C:\Users\tlooi\Desktop\gigaga\GigaCo\obj\Release\kontrol_kachestva.g.cs
+C:\Users\tlooi\Desktop\gigaga\GigaCo\obj\Release\Page1.g.cs
+C:\Users\tlooi\Desktop\gigaga\GigaCo\obj\Release\Page2.g.cs
+C:\Users\tlooi\Desktop\gigaga\GigaCo\obj\Release\MainWindow.g.cs
+C:\Users\tlooi\Desktop\gigaga\GigaCo\obj\Release\Page3.g.cs
+C:\Users\tlooi\Desktop\gigaga\GigaCo\obj\Release\qrcode.g.cs
+C:\Users\tlooi\Desktop\gigaga\GigaCo\obj\Release\razmer.g.cs
+C:\Users\tlooi\Desktop\gigaga\GigaCo\obj\Release\App.g.cs
+C:\Users\tlooi\Desktop\gigaga\GigaCo\obj\Release\GigaCo_Content.g.cs
+C:\Users\tlooi\Desktop\gigaga\GigaCo\obj\Release\GigaCo_MarkupCompile.cache
+C:\Users\tlooi\Desktop\gigaga\GigaCo\obj\Release\GigaCo_MarkupCompile.lref
+C:\Users\tlooi\Desktop\gigaga\GigaCo\obj\Release\color.baml
+C:\Users\tlooi\Desktop\gigaga\GigaCo\obj\Release\danger.baml
+C:\Users\tlooi\Desktop\gigaga\GigaCo\obj\Release\detail.baml
+C:\Users\tlooi\Desktop\gigaga\GigaCo\obj\Release\kontrol_kachestva.baml
+C:\Users\tlooi\Desktop\gigaga\GigaCo\obj\Release\Page1.baml
+C:\Users\tlooi\Desktop\gigaga\GigaCo\obj\Release\Page2.baml
+C:\Users\tlooi\Desktop\gigaga\GigaCo\obj\Release\MainWindow.baml
+C:\Users\tlooi\Desktop\gigaga\GigaCo\obj\Release\Page3.baml
+C:\Users\tlooi\Desktop\gigaga\GigaCo\obj\Release\qrcode.baml
+C:\Users\tlooi\Desktop\gigaga\GigaCo\obj\Release\razmer.baml
+C:\Users\tlooi\Desktop\gigaga\GigaCo\obj\Release\GigaCo.g.resources
+C:\Users\tlooi\Desktop\gigaga\GigaCo\obj\Release\GigaCo.Properties.Resources.resources
+C:\Users\tlooi\Desktop\gigaga\GigaCo\obj\Release\GigaCo.csproj.GenerateResource.cache
+C:\Users\tlooi\Desktop\gigaga\GigaCo\obj\Release\GigaCo.csproj.CoreCompileInputs.cache
+C:\Users\tlooi\Desktop\gigaga\GigaCo\obj\Release\GigaCo.exe
+C:\Users\tlooi\Desktop\gigaga\GigaCo\obj\Release\GigaCo.pdb
